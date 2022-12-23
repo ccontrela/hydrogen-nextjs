@@ -157,15 +157,15 @@ window.addEventListener("load", (e) => {
 
 #### Notice
 
-<Notice type="note" title="Notice">
+<Notice type="note">
   This is a simple note.
 </Notice>
 
-<Notice type="tip" title="Tip">
+<Notice type="tip">
   This is a simple note.
 </Notice>
 
-<Notice type="info" title="Info">
+<Notice type="info">
   This is a simple note.
 </Notice>
 
