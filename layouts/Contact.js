@@ -12,7 +12,7 @@ const Contact = ({ data }) => {
       <div className="container">
         <div className="row">
           <div className="mx-auto lg:col-8">
-          <div className="content">
+            <div className="content">
               {<MDXRemote {...mdxContent} components={shortcodes} />}
             </div>
             <div className="mt-12 pt-12">

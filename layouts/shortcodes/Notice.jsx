@@ -1,5 +1,5 @@
 
-function Notice({ type , children}) {
+function Notice({type , children}) {
   return (
     <div className={`notice ${type} relative rounded mt-8`}>
       <div className="absolute h-[30px] -top-[30px] z-10 left-0 p-3 flex items-center">

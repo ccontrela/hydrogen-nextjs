@@ -1,5 +1,5 @@
 <h1 align=center>Hydrogen Nextjs</h1>
-<p align=center>Hydrogen is a minimal free nextjs blog template. This highly customizable template is ideal for creating personal blog website.</p>
+<p align=center>Hydrogen is a minimal & highly customizable free NextJs personal blog template ideal for creating personal blog website.</p>
 <h2 align="center"> <a target="_blank" href="https://hydrogen-nextjs.vercel.app/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fhydrogen-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)</a>
 </h2>
 
@@ -17,25 +17,20 @@
     <img src="https://img.shields.io/github/contributors/statichunt/hydrogen-nextjs" alt="contributors"></a>
 </p>
 
-![hydrogen](https://demo.gethugothemes.com/thumbnails/hydrogen.png)
-
-👉🏻[View Live Preview](https://hydrogen-nextjs.vercel.app/)
-
-<!-- download -->
-## Download
-
-Download this template from [Github](https://github.com/statichunt/hydrogen-nextjs/archive/main.zip)
+![hydrogen](https://statichunt.com/themes/nextjs-hydrogen.png)
 
 ## Key Features
 
-- Multi-Author support
 - Google Page Speed score 100! (Desktop)
 - Supports Contact Form
-- Search Functionality
+- Disqus Comment Support 
+- Related Posts Suggestion 
+- MDX Support with many built-in custom components
 - Semantic HTML Document Structure
 - Custom Logo Support
 - Includes All SCSS Files
-- Image Optimized With Next/image
+- Taxonomy Page Support 
+- Images Optimized With Next/image
 
 <!-- installation -->
 ## Installation
@@ -77,11 +72,6 @@ npm run build
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/statichunt/hydrogen-nextjs/issues). It’s possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/statichunt/hydrogen-nextjs/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](https://statichunt.com/contact) instead of opening an issue.
 
 <!-- licence -->
 ## License

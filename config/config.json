@@ -2,14 +2,20 @@
   "site": {
     "title": "Hydrogen Nextjs",
     "base_url": "/",
-    "favicon": "/images/favicon.png"
+    "favicon": "/images/developer.png"
   },
 
   "settings": {
-    "default_theme": "system",
     "pagination": 6,
     "summary_length": 200,
     "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "Michael Caine",
+    "image": "/images/developer.png",
+    "designation": "Front-end developer",
+    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
   },
 
   "params": {

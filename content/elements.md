@@ -93,8 +93,9 @@ Some text to show that the reference links can follow later.
 
 ##### HTML
 
-<HighlightedCode language="html">
-{`<ul>
+<Code language="html">
+{`
+<ul>
   <li class="nav-item">
     <a class="nav-link" href="/">Home</a>
   </li>
@@ -103,47 +104,40 @@ Some text to show that the reference links can follow later.
   </li>
 </ul>
 `}
-</HighlightedCode>
+</Code>
 
 ---
 
 ##### CSS
 
-<HighlightedCode language="css">
+<Code language="css">
 {`
-  img {
+img {
   vertical-align: middle;
   border: 0;
   max-width: 100%;
   height: auto;
 }
 `}
-</HighlightedCode >
+</Code>
 
 ---
 
 ##### JavaScript
 
-<HighlightedCode language="javascript">
+<Code language="javascript">
 {`
 window.addEventListener("load", (e) => {
   document.querySelector(".preloader").style.display = "none";
-});
 })
 `}
-</HighlightedCode>
+</Code>
 
 ---
 
 #### Github Gist
 
-<iframe
-  width="100%"
-  height="350"
-  src="data:text/html;charset=utf-8,
-  <head><base target='_blank' /></head>
-  <body><script src='https://gist.github.com/tfsohag/4aa43a6d9d3518ed627727d2ad5b2f44.js'></script>
-  </body>" />
+<Gist src="https://gist.github.com/tfsohag/4aa43a6d9d3518ed627727d2ad5b2f44.js"/>
 
 ---
 
@@ -260,12 +254,6 @@ window.addEventListener("load", (e) => {
 
 ---
 
-#### Gallery
-
-<Gallery dir="/public/images/gallery"></Gallery>
-
----
-
 #### Youtube video
 
 <Youtube id="qJA2U-YMvkk" title="Play: Video" />
@@ -275,5 +263,3 @@ window.addEventListener("load", (e) => {
 #### Custom video
 
 <Video width="100%" src="http://techslides.com/demos/sample-videos/small.mp4" />
-
----
